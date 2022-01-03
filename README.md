@@ -1,19 +1,14 @@
 # java-fx-authentication
-Authentication system is the  feature with face authentication as two factor log for user comfort and make it secure it.
-Module Infomation.......................!!!!!!!!!!!!!!!!!!!!!!!!................................|
+Authentication system is the  feature with face authentication as two factor authentication to make secure it.
+
 <div>Tree module</div> 
 
-java-fx-authentication   #//main folder
-|
-|___nbproject_______________|
-|
-|___resourse_______|  contains harrcast files xml for face authentication module and c++ compiled source. 
-|
-|____src_________| contains java code and gui sturcture.........main code  file name is (Front.java) which has extents with all classes 
-|
-|
-|
-|_______singup.db | contain database for user password and Username with encrypted format.
+<div>java-fx-authentication</div>
+<div>|</div>
+<div>|___nbproject_______________|</div>
+<div>|</div>
+<div>|___resourse_______|  <span>contains harrcast files xml for face authentication module and c++ compiled source.</span></div> 
+<div>|</div>
+<div>|____src_________</div>
+|_______singup.db  .contain database for user password and Username with encrypted format.
 
-for using mdoules ...for working..
-complie source main code... 
